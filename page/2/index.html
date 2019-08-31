@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en-us">
 <head>
+	<meta name="generator" content="Hugo 0.54.0" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Categories - Peter&#39;s weblog</title>
+	<title>Peter&#39;s weblog</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="">
-	<meta property="og:title" content="Categories" />
+	<meta name="description" content="Peter&#39;s Personal blog about everything">
+	<meta property="og:title" content="Peter&#39;s weblog" />
 <meta property="og:description" content="Peter&#39;s Personal blog about everything" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://beesgo.github.io/weblog/categories/" />
+<meta property="og:url" content="https://beesgo.github.io/weblog/" />
 
+<meta property="og:updated_time" content="2014-03-10T00:00:00&#43;00:00"/>
 
 	<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Categories"/>
+<meta name="twitter:title" content="Peter&#39;s weblog"/>
 <meta name="twitter:description" content="Peter&#39;s Personal blog about everything"/>
 
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="alternate" type="application/rss+xml" href="/weblog/categories/index.xml" title="Peter's weblog">
+	<link rel="alternate" type="application/rss+xml" href="/weblog/index.xml" title="Peter's weblog">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
 	<link rel="stylesheet" href="/weblog/css/style.css">
 	<link rel="stylesheet" href="/weblog/css/custom.css">
@@ -63,49 +65,39 @@
 			<div class="primary">
 			
 <main class="main list" role="main">
-	<header class="main__header">
-		<h1 class="main__title">Categories</h1>
-	</header><article class="list__item post">
+	<article class="list__item post">
 	<header class="list__header">
 		<h3 class="list__title post__title ">
-			<a href="/weblog/categories/development/" rel="bookmark">
-			Development
+			<a href="/weblog/post/migrate-from-jekyll/" rel="bookmark">
+			Migrate to Hugo from Jekyll
 			</a>
 		</h3>
 		<div class="list__meta meta">
 <div class="meta__item-datetime meta__item">
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
-	<time class="meta__text" datetime="2018-04-16T00:00:00">April 16, 2018</time>
+	<time class="meta__text" datetime="2014-03-10T00:00:00">March 10, 2014</time>
 </div>
 </div>
 	</header>
 	<div class="content list__excerpt post__content clearfix">
-		
+		Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &lt;root&gt;/ ▾ images/ logo.png  should become
+▾ &lt;root&gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.
 	</div>
-</article><article class="list__item post">
-	<header class="list__header">
-		<h3 class="list__title post__title ">
-			<a href="/weblog/categories/golang/" rel="bookmark">
-			Golang
-			</a>
-		</h3>
-		<div class="list__meta meta">
-<div class="meta__item-datetime meta__item">
-	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
-	<time class="meta__text" datetime="2014-04-02T00:00:00">April 02, 2014</time>
-</div>
-</div>
-	</header>
-	<div class="content list__excerpt post__content clearfix">
-		
+	<div class="list__footer clearfix">
+		<a class="list__footer-readmore btn" href="/weblog/post/migrate-from-jekyll/">Read more…</a>
 	</div>
 </article>
 </main>
 
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/weblog/">«</a>
+	<span class="pagination__item pagination__item--current">2/2</span>
+</div>
+
 
 			</div>
-			
-<aside class="sidebar">
+			<aside class="sidebar">
 <div class="widget-recent widget">
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
