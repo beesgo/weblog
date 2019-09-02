@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Aug 2019 21:20:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 20:44:14 +0100</lastBuildDate>
     
 	<atom:link href="https://beesgo.github.io/weblog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Again-Test-Page</title>
-      <link>https://beesgo.github.io/weblog/post/again-test-page/</link>
-      <pubDate>Sat, 31 Aug 2019 21:20:30 +0100</pubDate>
+      <title>Page-One-Test</title>
+      <link>https://beesgo.github.io/weblog/post/page-one-test/</link>
+      <pubDate>Mon, 02 Sep 2019 20:44:14 +0100</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/again-test-page/</guid>
-      <description>test page the cat and tags</description>
+      <guid>https://beesgo.github.io/weblog/post/page-one-test/</guid>
+      <description>Test page</description>
     </item>
     
     <item>
