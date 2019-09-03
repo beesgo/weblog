@@ -11,47 +11,11 @@
     
     
     <item>
-      <title>Development</title>
-      <link>https://beesgo.github.io/weblog/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Test</title>
+      <link>https://beesgo.github.io/weblog/categories/test/</link>
+      <pubDate>Tue, 03 Sep 2019 15:36:44 +0100</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fish</title>
-      <link>https://beesgo.github.io/weblog/categories/fish/</link>
-      <pubDate>Mon, 02 Sep 2019 20:44:14 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/categories/fish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://beesgo.github.io/weblog/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Old</title>
-      <link>https://beesgo.github.io/weblog/categories/old/</link>
-      <pubDate>Mon, 02 Sep 2019 20:44:14 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/categories/old/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trees</title>
-      <link>https://beesgo.github.io/weblog/categories/trees/</link>
-      <pubDate>Mon, 02 Sep 2019 20:44:14 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/categories/trees/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/test/</guid>
       <description></description>
     </item>
     

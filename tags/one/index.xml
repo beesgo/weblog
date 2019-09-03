@@ -6,30 +6,18 @@
     <description>Recent content in One on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2019 20:44:14 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 15:36:44 +0100</lastBuildDate>
     
 	<atom:link href="https://beesgo.github.io/weblog/tags/one/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Page-One-Test</title>
-      <link>https://beesgo.github.io/weblog/post/page-one-test/</link>
-      <pubDate>Mon, 02 Sep 2019 20:44:14 +0100</pubDate>
+      <title>Test-Page-One</title>
+      <link>https://beesgo.github.io/weblog/post/test-page-one/</link>
+      <pubDate>Tue, 03 Sep 2019 15:36:44 +0100</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/page-one-test/</guid>
-      <description>&lt;p&gt;Test page&lt;/p&gt;
-
-&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
-
-&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;
-
-&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;
-
-&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;
-
-&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;
-
-&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;</description>
+      <guid>https://beesgo.github.io/weblog/post/test-page-one/</guid>
+      <description>Test page one</description>
     </item>
     
   </channel>
