@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Three on Peter&#39;s weblog</title>
-    <link>https://beesgo.github.io/weblog/tags/three/</link>
-    <description>Recent content in Three on Peter&#39;s weblog</description>
+    <title>Five on Peter&#39;s weblog</title>
+    <link>https://beesgo.github.io/weblog/tags/five/</link>
+    <description>Recent content in Five on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Sep 2019 17:36:59 +0100</lastBuildDate>
     
-	<atom:link href="https://beesgo.github.io/weblog/tags/three/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beesgo.github.io/weblog/tags/five/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://beesgo.github.io/weblog/post/test-page-three/</guid>
       <description>Test page three</description>
-    </item>
-    
-    <item>
-      <title>Test-Page-One</title>
-      <link>https://beesgo.github.io/weblog/post/test-page-one/</link>
-      <pubDate>Tue, 03 Sep 2019 15:36:44 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/post/test-page-one/</guid>
-      <description>Test page one</description>
     </item>
     
   </channel>
