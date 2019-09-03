@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://beesgo.github.io/weblog/post/test-page-four/</loc>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beesgo.github.io/weblog/post/test-page-three/</loc>
     <lastmod>2019-09-03T17:36:59+01:00</lastmod>
   </url>
@@ -23,7 +28,20 @@
   </url>
   
   <url>
+    <loc>https://beesgo.github.io/weblog/tags/</loc>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://beesgo.github.io/weblog/categories/</loc>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beesgo.github.io/weblog/categories/</loc>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,19 +65,19 @@
   
   <url>
     <loc>https://beesgo.github.io/weblog/</loc>
-    <lastmod>2019-09-03T17:36:59+01:00</lastmod>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://beesgo.github.io/weblog/post/</loc>
-    <lastmod>2019-09-03T17:36:59+01:00</lastmod>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://beesgo.github.io/weblog/tags/</loc>
-    <lastmod>2019-09-03T17:36:59+01:00</lastmod>
+    <lastmod>2019-09-03T19:45:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
