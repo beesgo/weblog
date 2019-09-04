@@ -6,28 +6,10 @@
     <description>Recent content in Tags on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2019 19:45:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 17:36:59 +0100</lastBuildDate>
     
 	<atom:link href="https://beesgo.github.io/weblog/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>One</title>
-      <link>https://beesgo.github.io/weblog/tags/one/</link>
-      <pubDate>Tue, 03 Sep 2019 19:45:40 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/tags/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>https://beesgo.github.io/weblog/tags/two/</link>
-      <pubDate>Tue, 03 Sep 2019 19:45:40 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/tags/two/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Five</title>
@@ -35,6 +17,24 @@
       <pubDate>Tue, 03 Sep 2019 17:36:59 +0100</pubDate>
       
       <guid>https://beesgo.github.io/weblog/tags/five/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four</title>
+      <link>https://beesgo.github.io/weblog/tags/four/</link>
+      <pubDate>Tue, 03 Sep 2019 15:45:31 +0100</pubDate>
+      
+      <guid>https://beesgo.github.io/weblog/tags/four/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://beesgo.github.io/weblog/tags/one/</link>
+      <pubDate>Tue, 03 Sep 2019 19:45:40 +0100</pubDate>
+      
+      <guid>https://beesgo.github.io/weblog/tags/one/</guid>
       <description></description>
     </item>
     
@@ -48,11 +48,11 @@
     </item>
     
     <item>
-      <title>Four</title>
-      <link>https://beesgo.github.io/weblog/tags/four/</link>
-      <pubDate>Tue, 03 Sep 2019 15:45:31 +0100</pubDate>
+      <title>Two</title>
+      <link>https://beesgo.github.io/weblog/tags/two/</link>
+      <pubDate>Tue, 03 Sep 2019 19:45:40 +0100</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/tags/four/</guid>
+      <guid>https://beesgo.github.io/weblog/tags/two/</guid>
       <description></description>
     </item>
     
