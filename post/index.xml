@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Test-Page-Four</title>
+      <title>Test Page Four</title>
       <link>https://beesgo.github.io/weblog/post/test-page-four/</link>
       <pubDate>Tue, 03 Sep 2019 19:45:40 +0100</pubDate>
       
       <guid>https://beesgo.github.io/weblog/post/test-page-four/</guid>
-      <description>Test page fourh
-{{ template &amp;ldquo;_internal/disqus.html&amp;rdquo; . }}</description>
+      <description>Test page four</description>
     </item>
     
     <item>
