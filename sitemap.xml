@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://beesgo.github.io/weblog/post/2019-09-06~15-57/</loc>
+    <lastmod>2019-09-06T15:58:36+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beesgo.github.io/weblog/post/2019-09-05~20-21/</loc>
     <lastmod>2019-09-05T20:33:40+01:00</lastmod>
   </url>
@@ -24,14 +29,26 @@
   </url>
   
   <url>
+    <loc>https://beesgo.github.io/weblog/tags/loud-clear/</loc>
+    <lastmod>2019-09-06T15:58:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://beesgo.github.io/weblog/</loc>
-    <lastmod>2019-09-05T20:33:40+01:00</lastmod>
+    <lastmod>2019-09-06T15:58:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://beesgo.github.io/weblog/post/</loc>
-    <lastmod>2019-09-05T20:33:40+01:00</lastmod>
+    <lastmod>2019-09-06T15:58:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beesgo.github.io/weblog/categories/radio-sputnik/</loc>
+    <lastmod>2019-09-06T15:58:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
