@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter&#39;s weblog</title>
-    <link>https://beesgo.github.io/weblog/</link>
-    <description>Recent content on Peter&#39;s weblog</description>
+    <title>Dwp on Peter&#39;s weblog</title>
+    <link>https://beesgo.github.io/weblog/categories/dwp/</link>
+    <description>Recent content in Dwp on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Sep 2019 13:25:04 +0100</lastBuildDate>
     
-	<atom:link href="https://beesgo.github.io/weblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beesgo.github.io/weblog/categories/dwp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
 &lt;p&gt;A sanction is applied to someone’s benefit when a claimant is deemed not to have met part of the stated “conditionality” for claiming that benefit. This can include missing an appointment, or not applying for enough jobs in a given time scale.&lt;/p&gt;
 
 &lt;p&gt;According to the Department for Work and Pensions (DWP) own estimates, the state spends up to £50 million a year applying sanctions, and £200 million a year monitoring whether claimants meet the conditions for receiving payments. In 2015, the DWP withheld £132 million from claimants in the form of sanctions.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Peter&#39;s Blog</title>
-      <link>https://beesgo.github.io/weblog/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/about/</guid>
-      <description>The put content in yet, peter.</description>
     </item>
     
   </channel>
