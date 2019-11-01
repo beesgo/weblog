@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Peter&#39;s weblog</title>
-    <link>https://beesgo.github.io/weblog/post/</link>
-    <description>Recent content in Posts on Peter&#39;s weblog</description>
+    <title>Michael Hudson on Peter&#39;s weblog</title>
+    <link>https://beesgo.github.io/weblog/tags/michael-hudson/</link>
+    <description>Recent content in Michael Hudson on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Nov 2019 22:00:54 +0000</lastBuildDate>
     
-	<atom:link href="https://beesgo.github.io/weblog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beesgo.github.io/weblog/tags/michael-hudson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,26 +18,6 @@
       
       <guid>https://beesgo.github.io/weblog/post/guns-and-butter-rescuing-the-banks-instead-of-the-economy-michael-hudson/</guid>
       <description>2018 marks the 10th anniversary of the stock market crash of 2008; the current financial malaise is the result of the bank bailouts, not the crash; an over-indebted economy cannot be saved unless the banks fail; debt deflation; the magic of compound interest; how pension funds, state and local governments adversely affected by the bank bailouts; growth of the financial extraction FIRE sector (finance, insurance and real estate); quantitative easing; asset price inflation; wealth concentrated at the top in Roman antiquity led to the Dark Age; Eurozone imposition of austerity Greek style; tariffs, economic sanctions and isolationism.</description>
-    </item>
-    
-    <item>
-      <title>David Harvey&#39;s - Anti-Capitalist Chronicles: Alienation - Part 2</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-2/</link>
-      <pubDate>Fri, 04 Oct 2019 18:37:53 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-2/</guid>
-      <description>David Harvey&amp;rsquo;s - Anti-Capitalist Chronicles: Alienation - Part 2
- </description>
-    </item>
-    
-    <item>
-      <title>David Harvey&#39;s - Anti-Capitalist Chronicles: Alienation - Part 1</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-1/</link>
-      <pubDate>Fri, 04 Oct 2019 18:37:34 +0100</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-1/</guid>
-      <description>David Harvey&amp;rsquo;s - Anti-Capitalist Chronicles: Alienation - Part 1
- </description>
     </item>
     
   </channel>
