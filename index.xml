@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>Audio</title>
+      <title>Html 5 audio player test and code.</title>
       <link>https://beesgo.github.io/weblog/blog/audio/</link>
       <pubDate>Mon, 11 Nov 2019 20:47:32 +0000</pubDate>
       
       <guid>https://beesgo.github.io/weblog/blog/audio/</guid>
-      <description>This is a test page for audio. All files need to go in the static directory. And the html code for inbeded player needs to be added to the body of blog page and linked to the file.</description>
+      <description>This is for testing the code for the Html 5 audio player. All the audio files need to go in the static directory - Huge - Theme MainStreet.
+Your browser does not support the audio tag. 
+&amp;lt;audio controls&amp;gt; &amp;lt;source src=&amp;quot;/weblog/audio/horse.ogg&amp;quot; type=&amp;quot;audio/ogg&amp;quot;&amp;gt; Your browser does not support the audio tag. &amp;lt;/audio&amp;gt;  </description>
     </item>
     
     <item>
