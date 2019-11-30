@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2019 16:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2019 21:57:25 +0000</lastBuildDate>
     
 	<atom:link href="https://beesgo.github.io/weblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>War</title>
+      <link>https://beesgo.github.io/weblog/categories/war/</link>
+      <pubDate>Sat, 30 Nov 2019 21:57:25 +0000</pubDate>
+      
+      <guid>https://beesgo.github.io/weblog/categories/war/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protests</title>
@@ -30,11 +39,11 @@
     </item>
     
     <item>
-      <title>War</title>
-      <link>https://beesgo.github.io/weblog/categories/war/</link>
-      <pubDate>Sat, 02 Nov 2019 14:22:57 +0000</pubDate>
+      <title>Hugo</title>
+      <link>https://beesgo.github.io/weblog/categories/hugo/</link>
+      <pubDate>Mon, 11 Nov 2019 20:47:32 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/categories/war/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/hugo/</guid>
       <description></description>
     </item>
     
