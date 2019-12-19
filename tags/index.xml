@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 15:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 22:10:22 +0000</lastBuildDate>
     
 	<atom:link href="https://beesgo.github.io/weblog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>David Harvey</title>
+      <link>https://beesgo.github.io/weblog/tags/david-harvey/</link>
+      <pubDate>Thu, 19 Dec 2019 22:10:22 +0000</pubDate>
+      
+      <guid>https://beesgo.github.io/weblog/tags/david-harvey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BUI</title>
@@ -44,15 +53,6 @@
       <pubDate>Tue, 19 Nov 2019 16:23:01 +0000</pubDate>
       
       <guid>https://beesgo.github.io/weblog/tags/yellow-vest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Harvey</title>
-      <link>https://beesgo.github.io/weblog/tags/david-harvey/</link>
-      <pubDate>Tue, 19 Nov 2019 16:02:28 +0000</pubDate>
-      
-      <guid>https://beesgo.github.io/weblog/tags/david-harvey/</guid>
       <description></description>
     </item>
     
