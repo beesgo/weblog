@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BUI on Peter&#39;s weblog</title>
-    <link>https://beesgo.github.io/weblog/tags/bui/</link>
-    <description>Recent content in BUI on Peter&#39;s weblog</description>
+    <title>BUI on </title>
+    <link>/tags/bui/</link>
+    <description>Recent content in BUI on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 19 Dec 2019 15:35:35 +0000</lastBuildDate>
     
-	<atom:link href="https://beesgo.github.io/weblog/tags/bui/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/bui/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Richard Wolff - Beyond Basic Universal Income</title>
-      <link>https://beesgo.github.io/weblog/post/richard-wolff-beyond-basic-universal-income/</link>
+      <link>/post/richard-wolff-beyond-basic-universal-income/</link>
       <pubDate>Thu, 19 Dec 2019 15:35:35 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/richard-wolff-beyond-basic-universal-income/</guid>
+      <guid>/post/richard-wolff-beyond-basic-universal-income/</guid>
       <description>In-depth analysis of UBI shows its advantages over most welfare, safety net systems. An even better alternative would avoid capitalism&amp;rsquo;s unnecessary production of unemployment because it utilizes technical progress (rising productivity) for profits. The alternative benefits workers&amp;rsquo; leisure rather than profits. It is more democratic and avoids splitting people into unemployed vs employed, non-poor vs poor. population.
  Web link to original article</description>
     </item>

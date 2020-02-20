@@ -1,42 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Economics on Peter&#39;s weblog</title>
-    <link>https://beesgo.github.io/weblog/categories/economics/</link>
-    <description>Recent content in Economics on Peter&#39;s weblog</description>
+    <title>Economics on </title>
+    <link>/categories/economics/</link>
+    <description>Recent content in Economics on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2020 17:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 11:48:54 +0000</lastBuildDate>
     
-	<atom:link href="https://beesgo.github.io/weblog/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/economics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Guns &amp; Butter - After Trump and Neoliberalism - What&#39;s Next Dr. Jack Rasmus</title>
+      <link>/post/guns-and-butter-after-trump-and-neoliberalism-whats-next-dr-jack-rasmus/</link>
+      <pubDate>Thu, 20 Feb 2020 11:48:54 +0000</pubDate>
+      
+      <guid>/post/guns-and-butter-after-trump-and-neoliberalism-whats-next-dr-jack-rasmus/</guid>
+      <description>Dr. Jack Rasmus discusses the last three chapters of his new book, “The Scourge of Neoliberalism: From Reagan to Trump” with a focus on the growing contradictions within the Neoliberal policy regime in the 21st Century; the deep technological and material forces undermining and driving the contradictions; and why the 2020s decade will require yet another, fourth restructuring of US capitalism that may fundamentally differ from the Neoliberal experience of the past four decades.</description>
+    </item>
+    
+    <item>
+      <title>Guns &amp; Butter - Neoliberalism From Expansion to Stagnation Dr. Jack Rasmus</title>
+      <link>/post/guns-and-butter-neoliberalism-from-expansion-to-stagnation-dr-jack-rasmus/</link>
+      <pubDate>Thu, 20 Feb 2020 11:36:48 +0000</pubDate>
+      
+      <guid>/post/guns-and-butter-neoliberalism-from-expansion-to-stagnation-dr-jack-rasmus/</guid>
+      <description>Dr. Jack Rasmus discusses his newest book, &amp;ldquo;The Scourge of Neoliberalism: US Economic Policy from Reagan to Trump&amp;rdquo;, with an emphasis on the practice of neoliberalism as opposed to the economic ideology which obscures its class basis; neoliberalism as the third major capitalist restructuring of the 20th century as a response to the crisis of capitalism in the 1970s; the four economic policy areas, i.e., fiscal, monetary, industrial and external, that require restructuring as capitalism evolves into a new crisis; the fallacies of neoliberalism; government policy encourages offshoring of US manufacturing; global dollar recycling into US treasuries to support the twin US deficits solution; financialization of the economy; shadow banking; deregulation and privatization; neoliberalism socially destructive.</description>
+    </item>
+    
+    <item>
+      <title>Anti Capitalist Chronicles: How Capitalism Works</title>
+      <link>/post/anti-capitalist-chronicles-how-capitalism-works/</link>
+      <pubDate>Thu, 20 Feb 2020 11:16:27 +0000</pubDate>
+      
+      <guid>/post/anti-capitalist-chronicles-how-capitalism-works/</guid>
+      <description>In this episode, Prof. Harvey breaks down how capitalism works and why it is important to examine the long-run evolution of capital and the long-run pressures placed on capital that inevitably make it unsustainable.
+ Web link to original article</description>
+    </item>
+    
+    <item>
       <title>Anti-Capitalist Chronicles: Global Unrest</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-global-unrest/</link>
+      <link>/post/anti-capitalist-chronicles-global-unrest/</link>
       <pubDate>Mon, 06 Jan 2020 17:25:58 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-global-unrest/</guid>
+      <guid>/post/anti-capitalist-chronicles-global-unrest/</guid>
       <description>In this final episode of the season, Prof. Harvey starts with the protests in Chile and then talks about the unrest emerging all over the globe. Capitalism, particularly Neo-liberalism, is working for the 1% but is failing the rest of society. People are starting to notice and taking to the streets in protest.
  Web link to original article</description>
     </item>
     
     <item>
       <title>Anti Capitalist Chronicles: From Fordism to Neoliberalism and Beyond</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-from-fordism-to-neoliberalism-and-beyond/</link>
+      <link>/post/anti-capitalist-chronicles-from-fordism-to-neoliberalism-and-beyond/</link>
       <pubDate>Fri, 03 Jan 2020 20:01:29 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-from-fordism-to-neoliberalism-and-beyond/</guid>
+      <guid>/post/anti-capitalist-chronicles-from-fordism-to-neoliberalism-and-beyond/</guid>
       <description>In this first episode of season 2, Prof. Harvey talks about the massive economic problems the U.S. was faced with in the late 70s and 80s and how the crisis of 2008 was made clearer by that historical period. As we look ahead to 2020, there is opportunity for the left to make meaningful changes to economic conditions.
  Web link to original article</description>
     </item>
     
     <item>
       <title>Economic Update - The Contributions of Karl Marx - Part 4</title>
-      <link>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-4/</link>
+      <link>/post/economic-update-the-contributions-of-karl-marx-part-4/</link>
       <pubDate>Tue, 31 Dec 2019 19:45:27 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-4/</guid>
+      <guid>/post/economic-update-the-contributions-of-karl-marx-part-4/</guid>
       <description>Part 4 of 4
 Professor Wolff takes a deeper look at the life and work of Karl Marx in celebration of the 200th anniversary of his birth.
  Web link to original article</description>
@@ -44,10 +71,10 @@ Professor Wolff takes a deeper look at the life and work of Karl Marx in celebra
     
     <item>
       <title>Economic Update - The Contributions of Karl Marx - Part 3</title>
-      <link>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-3/</link>
+      <link>/post/economic-update-the-contributions-of-karl-marx-part-3/</link>
       <pubDate>Tue, 31 Dec 2019 19:45:03 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-3/</guid>
+      <guid>/post/economic-update-the-contributions-of-karl-marx-part-3/</guid>
       <description>Part 3 of 4
 Professor Wolff takes a deeper look at the life and work of Karl Marx in celebration of the 200th anniversary of his birth.
  Web link to original article</description>
@@ -55,10 +82,10 @@ Professor Wolff takes a deeper look at the life and work of Karl Marx in celebra
     
     <item>
       <title>Economic Update - The Contributions of Karl Marx - Part 2</title>
-      <link>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-2/</link>
+      <link>/post/economic-update-the-contributions-of-karl-marx-part-2/</link>
       <pubDate>Wed, 25 Dec 2019 19:07:54 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-2/</guid>
+      <guid>/post/economic-update-the-contributions-of-karl-marx-part-2/</guid>
       <description>Part 2 of 4
 Professor Wolff takes a deeper look at the life and work of Karl Marx in celebration of the 200th anniversary of his birth.
  Web link to original article</description>
@@ -66,10 +93,10 @@ Professor Wolff takes a deeper look at the life and work of Karl Marx in celebra
     
     <item>
       <title>Economic Update - The Contributions of Karl Marx - Part 1</title>
-      <link>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-1/</link>
+      <link>/post/economic-update-the-contributions-of-karl-marx-part-1/</link>
       <pubDate>Tue, 24 Dec 2019 19:51:51 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/economic-update-the-contributions-of-karl-marx-part-1/</guid>
+      <guid>/post/economic-update-the-contributions-of-karl-marx-part-1/</guid>
       <description>Part 1 of 4
 Professor Wolff takes a deeper look at the life and work of Karl Marx in celebration of the 200th anniversary of his birth.
  Web link to original article</description>
@@ -77,58 +104,58 @@ Professor Wolff takes a deeper look at the life and work of Karl Marx in celebra
     
     <item>
       <title>Anti Capitalist Chronicles: Global Unrest</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-global-unrest/</link>
+      <link>/post/anti-capitalist-chronicles-global-unrest/</link>
       <pubDate>Thu, 19 Dec 2019 22:10:22 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-global-unrest/</guid>
+      <guid>/post/anti-capitalist-chronicles-global-unrest/</guid>
       <description>In this final episode of the season, Prof. Harvey starts with the protests in Chile and then talks about the unrest emerging all over the globe. Capitalism, particularly Neo-liberalism, is working for the 1% but is failing the rest of society. People are starting to notice and taking to the streets in protest.
  Web link to original article</description>
     </item>
     
     <item>
       <title>Richard Wolff - Beyond Basic Universal Income</title>
-      <link>https://beesgo.github.io/weblog/post/richard-wolff-beyond-basic-universal-income/</link>
+      <link>/post/richard-wolff-beyond-basic-universal-income/</link>
       <pubDate>Thu, 19 Dec 2019 15:35:35 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/richard-wolff-beyond-basic-universal-income/</guid>
+      <guid>/post/richard-wolff-beyond-basic-universal-income/</guid>
       <description>In-depth analysis of UBI shows its advantages over most welfare, safety net systems. An even better alternative would avoid capitalism&amp;rsquo;s unnecessary production of unemployment because it utilizes technical progress (rising productivity) for profits. The alternative benefits workers&amp;rsquo; leisure rather than profits. It is more democratic and avoids splitting people into unemployed vs employed, non-poor vs poor. population.
  Web link to original article</description>
     </item>
     
     <item>
       <title>David Harvey - The Rate and Mass of Growth</title>
-      <link>https://beesgo.github.io/weblog/post/david-harvey-the-rate-and-mass-of-growth/</link>
+      <link>/post/david-harvey-the-rate-and-mass-of-growth/</link>
       <pubDate>Tue, 19 Nov 2019 16:02:28 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/david-harvey-the-rate-and-mass-of-growth/</guid>
+      <guid>/post/david-harvey-the-rate-and-mass-of-growth/</guid>
       <description>In this lecture, David Harvey offers a close reading of Volume III of Karl Marx’s Capital to distinguish the rate of growth versus the mass of growth. Most economists, policy makers, politicians, and the financial press are very concerned about the rate of growth. The rate of growth is in turn critical to the formulation of policy. Yet the mass of growth is actually more significant, and deserves careful analysis. This lecture will devote special attention to the mass of growth.</description>
     </item>
     
     <item>
       <title>Anti Capitalist Chronicles Social Reproduction Part 1</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-social-reproduction-part-1/</link>
+      <link>/post/anti-capitalist-chronicles-social-reproduction-part-1/</link>
       <pubDate>Sat, 16 Nov 2019 19:38:40 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-social-reproduction-part-1/</guid>
+      <guid>/post/anti-capitalist-chronicles-social-reproduction-part-1/</guid>
       <description>Prof. Harvey is joined by CUNY Graduate Center Professor Cindi Katz to discuss social reproduction and its relation and significance to capitalism&amp;rsquo;s success.
  </description>
     </item>
     
     <item>
       <title>Guns and Butter - Rescuing the Banks Instead of the Economy - Michael Hudson</title>
-      <link>https://beesgo.github.io/weblog/post/guns-and-butter-rescuing-the-banks-instead-of-the-economy-michael-hudson/</link>
+      <link>/post/guns-and-butter-rescuing-the-banks-instead-of-the-economy-michael-hudson/</link>
       <pubDate>Fri, 01 Nov 2019 22:00:54 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/guns-and-butter-rescuing-the-banks-instead-of-the-economy-michael-hudson/</guid>
+      <guid>/post/guns-and-butter-rescuing-the-banks-instead-of-the-economy-michael-hudson/</guid>
       <description>2018 marks the 10th anniversary of the stock market crash of 2008; the current financial malaise is the result of the bank bailouts, not the crash; an over-indebted economy cannot be saved unless the banks fail; debt deflation; the magic of compound interest; how pension funds, state and local governments adversely affected by the bank bailouts; growth of the financial extraction FIRE sector (finance, insurance and real estate); quantitative easing; asset price inflation; wealth concentrated at the top in Roman antiquity led to the Dark Age; Eurozone imposition of austerity Greek style; tariffs, economic sanctions and isolationism.</description>
     </item>
     
     <item>
       <title>Trade Unions &#39;Rich and Cowardly&#39; - FRFI! Newspaper</title>
-      <link>https://beesgo.github.io/weblog/news/trade-unions-rich-and-cowardly/</link>
+      <link>/news/trade-unions-rich-and-cowardly/</link>
       <pubDate>Fri, 01 Nov 2019 13:56:57 +0000</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/news/trade-unions-rich-and-cowardly/</guid>
+      <guid>/news/trade-unions-rich-and-cowardly/</guid>
       <description>&lt;p&gt;Created: Thursday, 31 October 2019 - Written by Robert Clough&lt;/p&gt;
 
 &lt;p&gt;Delivering his keynote speech to the 2019 TUC Congress in September, supposed left-wing trade union leader and TUC President Mark Serwotka plaintively asked of the future ‘Will we end up just observing the rise of the far right, including our current government? Will we watch, horrified, the further decimation of our public services? Will we look fearfully at the rise of racism and hate? Will we be passive witnesses of the growth of a climate emergency?’ All the evidence for the past ten years points to one answer – yes.&lt;/p&gt;
@@ -138,20 +165,20 @@ Professor Wolff takes a deeper look at the life and work of Karl Marx in celebra
     
     <item>
       <title>David Harvey&#39;s - Anti-Capitalist Chronicles: Alienation - Part 2</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-2/</link>
+      <link>/post/anti-capitalist-chronicles-alienation-part-2/</link>
       <pubDate>Fri, 04 Oct 2019 18:37:53 +0100</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-2/</guid>
+      <guid>/post/anti-capitalist-chronicles-alienation-part-2/</guid>
       <description>David Harvey&amp;rsquo;s - Anti-Capitalist Chronicles: Alienation - Part 2
  </description>
     </item>
     
     <item>
       <title>David Harvey&#39;s - Anti-Capitalist Chronicles: Alienation - Part 1</title>
-      <link>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-1/</link>
+      <link>/post/anti-capitalist-chronicles-alienation-part-1/</link>
       <pubDate>Fri, 04 Oct 2019 18:37:34 +0100</pubDate>
       
-      <guid>https://beesgo.github.io/weblog/post/anti-capitalist-chronicles-alienation-part-1/</guid>
+      <guid>/post/anti-capitalist-chronicles-alienation-part-1/</guid>
       <description>David Harvey&amp;rsquo;s - Anti-Capitalist Chronicles: Alienation - Part 1
  </description>
     </item>
