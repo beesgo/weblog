@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rate Mass Growth on </title>
-    <link>/tags/rate-mass-growth/</link>
-    <description>Recent content in Rate Mass Growth on </description>
+    <title>Rate Mass Growth on Peter&#39;s weblog</title>
+    <link>https://beesgo.github.io/weblog/tags/rate-mass-growth/</link>
+    <description>Recent content in Rate Mass Growth on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 19 Nov 2019 16:02:28 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rate-mass-growth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beesgo.github.io/weblog/tags/rate-mass-growth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>David Harvey - The Rate and Mass of Growth</title>
-      <link>/post/david-harvey-the-rate-and-mass-of-growth/</link>
+      <link>https://beesgo.github.io/weblog/post/david-harvey-the-rate-and-mass-of-growth/</link>
       <pubDate>Tue, 19 Nov 2019 16:02:28 +0000</pubDate>
       
-      <guid>/post/david-harvey-the-rate-and-mass-of-growth/</guid>
+      <guid>https://beesgo.github.io/weblog/post/david-harvey-the-rate-and-mass-of-growth/</guid>
       <description>In this lecture, David Harvey offers a close reading of Volume III of Karl Marx’s Capital to distinguish the rate of growth versus the mass of growth. Most economists, policy makers, politicians, and the financial press are very concerned about the rate of growth. The rate of growth is in turn critical to the formulation of policy. Yet the mass of growth is actually more significant, and deserves careful analysis. This lecture will devote special attention to the mass of growth.</description>
     </item>
     

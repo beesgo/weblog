@@ -1,57 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on </description>
+    <title>Categories on Peter&#39;s weblog</title>
+    <link>https://beesgo.github.io/weblog/categories/</link>
+    <description>Recent content in Categories on Peter&#39;s weblog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Thu, 20 Feb 2020 11:48:54 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beesgo.github.io/weblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Economics</title>
-      <link>/categories/economics/</link>
+      <link>https://beesgo.github.io/weblog/categories/economics/</link>
       <pubDate>Thu, 20 Feb 2020 11:48:54 +0000</pubDate>
       
-      <guid>/categories/economics/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>War</title>
-      <link>/categories/war/</link>
+      <link>https://beesgo.github.io/weblog/categories/war/</link>
       <pubDate>Sat, 30 Nov 2019 21:57:25 +0000</pubDate>
       
-      <guid>/categories/war/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/war/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protests</title>
-      <link>/categories/protests/</link>
+      <link>https://beesgo.github.io/weblog/categories/protests/</link>
       <pubDate>Tue, 19 Nov 2019 16:23:01 +0000</pubDate>
       
-      <guid>/categories/protests/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/protests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/categories/hugo/</link>
+      <link>https://beesgo.github.io/weblog/categories/hugo/</link>
       <pubDate>Mon, 11 Nov 2019 20:47:32 +0000</pubDate>
       
-      <guid>/categories/hugo/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DWP</title>
-      <link>/categories/dwp/</link>
+      <link>https://beesgo.github.io/weblog/categories/dwp/</link>
       <pubDate>Wed, 02 Oct 2019 15:15:17 +0100</pubDate>
       
-      <guid>/categories/dwp/</guid>
+      <guid>https://beesgo.github.io/weblog/categories/dwp/</guid>
       <description></description>
     </item>
     
